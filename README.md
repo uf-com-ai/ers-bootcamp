@@ -22,7 +22,7 @@
 | 4:30 PM  | [Jupyter Notebook 4: Deep Learning](https://colab.research.google.com/github/uf-com-ai/ers-bootcamp/blob/main/notebooks/04_intro_neural_networks.ipynb) 
 
 ## Friday, August 18
-NVIDIA DLI: Fundamentals of Deep Learning
+NVIDIA DLI: *Fundamentals of Deep Learning*
 | Time    | Session                                                      |
 | ------- | ----------------------------------------------------------- |
 | 8:30 AM | Introduction |
