@@ -1,6 +1,6 @@
 # UF ERS-AI/MD-PhD Bootcamp
-* **Dates:** August 17-18, 2023
-* **Location:** C1-121 (Biomedical Information Teaching Space), HSC Library
+**Dates:** August 17-18, 2023  
+**Location:** C1-121 (Biomedical Information Teaching Space), HSC Library
 
 ### Self-Paced Training (Pre-Bootcamp)
 * [Foundations of AI-Based Medicine](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1152676&selectedProgramAreaId=1015758&selectedProgramStreamId=1016506#courseSectionDetails_1152690) (4-hour course). $200 registration fee is waived for bootcamp participants.
